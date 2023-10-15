@@ -1,32 +1,302 @@
 [
-  [
-    "J.K. Rowling"
-  ],
-  [
-    "Jimi Hendrix"
-  ],
-  [
-    "J.M. Barrie"
-  ],
-  [
-    "E.E. Cummings"
-  ],
-  [
-    "Khaled Hosseini"
-  ],
-  [
-    "Harper Lee"
-  ],
-  [
-    "Madeleine L'Engle"
-  ],
-  [
-    "Mark Twain"
-  ],
-  [
-    "Dr. Seuss"
-  ],
-  [
-    "George R.R. Martin"
-  ]
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Andr\u00e9 Gide",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Thomas A. Edison",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Eleanor Roosevelt",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Steve Martin",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Bob Marley",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Douglas Adams",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Elie Wiesel",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Friedrich Nietzsche",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Allen Saunders",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Pablo Neruda",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Ralph Waldo Emerson",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Mother Teresa",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Garrison Keillor",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Jim Henson",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Charles M. Schulz",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "William Nicholson",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Jorge Luis Borges",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "George Eliot",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "George R.R. Martin",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Martin Luther King Jr.",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "James Baldwin",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Haruki Murakami",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Alexandre Dumas fils",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Stephenie Meyer",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Ernest Hemingway",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Helen Keller",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "George Bernard Shaw",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Charles Bukowski",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Suzanne Collins",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "J.R.R. Tolkien",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Alfred Tennyson",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Terry Pratchett",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "J.D. Salinger",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "George Carlin",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "John Lennon",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "W.C. Fields",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Ayn Rand",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Jimi Hendrix",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "J.M. Barrie",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "E.E. Cummings",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Khaled Hosseini",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Harper Lee",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  },
+  {
+    "fullname": "Madeleine L'Engle",
+    "born_date": "",
+    "born_location": "",
+    "description": ""
+  }
 ]
