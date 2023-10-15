@@ -1,41 +1,101 @@
 [
   {
-    "tags": [
-      "change",
-      "deep-thoughts",
-      "thinking",
-      "world"
+    "keywords": [
+      "truth"
     ],
-    "author": "Albert Einstein",
-    "quote": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”"
+    "author": [
+      "J.K. Rowling"
+    ],
+    "quote": "\u201cThe truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.\u201d"
   },
   {
-    "tags": [
-      "inspirational",
-      "life",
-      "live",
-      "miracle",
-      "miracles"
+    "keywords": [
+      "death",
+      "life"
     ],
-    "author": "Albert Einstein",
-    "quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”"
+    "author": [
+      "Jimi Hendrix"
+    ],
+    "quote": "\u201cI'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.\u201d"
   },
   {
-    "tags": [
-      "adulthood",
-      "success",
-      "value"
+    "keywords": [
+      "adventure",
+      "love"
     ],
-    "author": "Albert Einstein",
-    "quote": "“Try not to become a man of success. Rather become a man of value.”"
+    "author": [
+      "J.M. Barrie"
+    ],
+    "quote": "\u201cTo die will be an awfully big adventure.\u201d"
   },
   {
-    "tags": [
-      "humor",
-      "obvious",
-      "simile"
+    "keywords": [
+      "courage"
     ],
-    "author": "Steve Martin",
-    "quote": "“A day without sunshine is like, you know, night.”"
+    "author": [
+      "E.E. Cummings"
+    ],
+    "quote": "\u201cIt takes courage to grow up and become who you really are.\u201d"
+  },
+  {
+    "keywords": [
+      "life"
+    ],
+    "author": [
+      "Khaled Hosseini"
+    ],
+    "quote": "\u201cBut better to get hurt by the truth than comforted with a lie.\u201d"
+  },
+  {
+    "keywords": [
+      "better-life-empathy"
+    ],
+    "author": [
+      "Harper Lee"
+    ],
+    "quote": "\u201cYou never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.\u201d"
+  },
+  {
+    "keywords": [
+      "books",
+      "children",
+      "difficult",
+      "grown-ups",
+      "write",
+      "writers",
+      "writing"
+    ],
+    "author": [
+      "Madeleine L'Engle"
+    ],
+    "quote": "\u201cYou have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.\u201d"
+  },
+  {
+    "keywords": [
+      "truth"
+    ],
+    "author": [
+      "Mark Twain"
+    ],
+    "quote": "\u201cNever tell the truth to people who are not worthy of it.\u201d"
+  },
+  {
+    "keywords": [
+      "inspirational"
+    ],
+    "author": [
+      "Dr. Seuss"
+    ],
+    "quote": "\u201cA person's a person, no matter how small.\u201d"
+  },
+  {
+    "keywords": [
+      "books",
+      "mind"
+    ],
+    "author": [
+      "George R.R. Martin"
+    ],
+    "quote": "\u201c... a mind needs books as a sword needs a whetstone, if it is to keep its edge.\u201d"
   }
 ]
