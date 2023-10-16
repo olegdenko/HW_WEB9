@@ -14,8 +14,8 @@ class QoteItem(Item):
 class AuthorItem(Item):
     fullname = Field()
     born_date = Field()
-    location_born = Field()
-    bio = Field()
+    born_location = Field()
+    description = Field()
 
 
 class QuotesPipline:
@@ -28,8 +28,8 @@ class QuotesPipline:
             self.authors.append({
                 "fullname": adapter["fullname"],
                 "born_date": adapter["born_date"],
-                "location_born": adapter["location_born"],
-                "bio": adapter["bio"],
+                "born_location": adapter["born_location"],
+                "description": adapter["description"],
                 })
         if 'quote' in adapter.keys():
             self.quotes.append({
@@ -70,9 +70,9 @@ class AuthorsSpider(scrapy.Spider):
         author = response.xpath('/html//div[@class="author-details"]')
         fullname = author.xpath('h3[@class="author-title"]/text()').get()
         born_date = author.xpath('p/span[@class="author-born-date"]/text()').get()
-        location_born = author.xpath('p/span[@class="author-born-location"]/text()').get()
-        bio = author.xpath('div[@class="author-description"]/text()').get().strip()
-        yield AuthorItem(fullname=fullname, born_date=born_date, location_born=location_born, bio=bio)
+        born_location = author.xpath('p/span[@class="author-born-location"]/text()').get()
+        description = author.xpath('div[@class="author-description"]/text()').get().strip()
+        yield AuthorItem(fullname=fullname, born_date=born_date, born_location=born_location, description=description)
 
 
 if __name__ == "__main__":
